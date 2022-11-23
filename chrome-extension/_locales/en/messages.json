@@ -1,0 +1,12 @@
+{
+	"extension_name": {
+		"message": "Paste from clipboard fix"
+	},
+	"extension_description": {
+		"message": "Currently the BI portal has a fault, the paste from clipboard isn't working. This is a temp fix."
+	},
+
+	"page_not_loaded": {
+		"message": "The page is not loaded."
+	}
+}

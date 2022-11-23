@@ -1,0 +1,9 @@
+Currently the BI portal has a fault, the paste from clipboard isn't working. This is a temp fix.
+Just paste to any field and the current clipboard will be paste split by ;.
+
+Now you don't even need to open a separate popup.
+
+Personal information is not collected / used.
+Source code is released to GitHub (see "Website" link).
+
+This extension was developed by Leo, your colleague from WAGO UK :D

@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Paste from clipboard fix",
+  "version": "0.1",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://axbip0101/*", "http://axbip0101/*"
+      ]
+    }
+  ]
+}
